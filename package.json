@@ -88,11 +88,16 @@
     "webpack-dev-server": "^4.11.0"
   },
   "resolutions": {
+    "@octokit/plugin-paginate-rest": "9.2.2",
+    "@octokit/request": "8.4.1",
+    "@octokit/request-error": "5.1.1",
     "body-parser": "1.20.3",
     "braces": "3.0.3",
+    "broccoli-rollup": "5.0.0",
     "cross-spawn": "7.0.5",
     "micromatch": "4.0.8",
     "path-to-regexp": "^0.1.12",
+    "rollup": "^3.22.0",
     "tar": "^6.2.0",
     "ws": "^8.17.1"
   }
