@@ -97,7 +97,7 @@
     "cross-spawn": "7.0.5",
     "micromatch": "4.0.8",
     "path-to-regexp": "^0.1.12",
-    "rollup": "2.79.2",
+    "rollup": "^3.22.0",
     "tar": "^6.2.0",
     "ws": "^8.17.1"
   }
