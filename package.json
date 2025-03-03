@@ -95,6 +95,7 @@
     "braces": "3.0.3",
     "broccoli-rollup": "5.0.0",
     "cross-spawn": "7.0.5",
+    "ip": "2.0.1",
     "micromatch": "4.0.8",
     "path-to-regexp": "^0.1.12",
     "rollup": "^3.22.0",
