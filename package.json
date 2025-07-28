@@ -97,6 +97,7 @@
     "cross-spawn": "7.0.5",
     "ip": "2.0.1",
     "micromatch": "4.0.8",
+    "on-headers": "^1.1.0",
     "path-to-regexp": "^0.1.12",
     "postcss": "^8.4.31",
     "rollup": "^3.22.0",
